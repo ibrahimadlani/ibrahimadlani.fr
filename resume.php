@@ -10,6 +10,7 @@
   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/master.css">
   <link rel="icon" type="image/png" href="img/resume.png">
 
 </head>
@@ -22,11 +23,11 @@
         
         <br>
         <h3>Profile</h4>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum culpa unde magni repellat, itaque voluptatum? Accusantium optio distinctio, commodi, maxime fugiat ipsum perferendis laboriosam porro similique omnis quidem sapiente delectus?</p>
+        <p>I am a determined and tireless individual with a great passion for web programming and software engineering. I am currently in my second year of studying computer science at Hauts-de-France Polytechnic Univeristy. I have excellent communication skills, enabling me to effectively communicate with a wide range of people.</p>
         <hr>
 
         <h3>Employement History</h3>
-        <h4>Freelance Full Stack Web Developer, Sedan (FR)</h4>
+        <h4><b>Freelance Full Stack Web Developer, Sedan (FR)</b></h4>
         <small>April 2020 — Present</small>
         <ul>
             <li>Creation of site's structural tree</li>
@@ -41,7 +42,7 @@
         <hr>
 
         <h3>Internship</h3>
-        <h4>Assistant Web Developer at EuroDNS, Leudelange (LUX)</h4>
+        <h4><b>Assistant Web Developer at EuroDNS, Leudelange (LUX)</b></h4>
         <small>April 2015 — May 2015</small>
         <ul>
             <li>Learning how to maintain websites</li>
@@ -50,16 +51,16 @@
         <hr>
 
         <h3>Education & Diplomas</h3>
-        <h4>Computer Science Degree, UPHF, Maubeuge (FR)</h4>
+        <h4><b>Computer Science Degree, UPHF, Maubeuge (FR)</b></h4>
         <small>September 2018 — Present</small>
         <hr>
 
         <h3>Certifications</h3>
-        <h4>Scientific Computing with Python, FreeCodeCamp</h4>
+        <h4><b>Scientific Computing with Python, FreeCodeCamp</b></h4>
         <small>January 2021</small>
-        <h4>Responsive Web Design Certification, FreeCodeCamp</h4>
+        <h4><b>Responsive Web Design Certification, FreeCodeCamp</b></h4>
         <small>January 2021</small>
-        <h4>TOEIC (855/990), Educational Testing Service</h4>
+        <h4><b>TOEIC (855/990), Educational Testing Service</b></h4>
         <small>February 2020</small>
         <hr>
 

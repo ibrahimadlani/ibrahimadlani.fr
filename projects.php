@@ -10,6 +10,7 @@
   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/master.css">
   <link rel="icon" type="image/png" href="img/projects.png">
 
 </head>
@@ -32,6 +33,20 @@
             <p>Dynamic display of an n-sided regular polygon.</p>
             <a class="button" href="https://ibrahimadlani.fr/regular-polygon">See the demo</a>
             <a class="button button-primary" href="https://github.com/ibrahimadlani/regular-polygon">Check the repo</a>
+            <hr>
+        </div>
+        <div class="project">
+            <h5><b>Module Manager</b></h5>
+            <p>Python program that parse my university schedule file (.ics) to display it with a better GUI.</p>
+            <a class="button" href="http://faucheron.fr/module-manager">See the demo</a>
+            <a class="button button-primary" href="https://github.com/ibrahimadlani/module-manager">Check the repo</a>
+            <hr>
+        </div>
+        <div class="project">
+            <h5><b>Memory.js</b></h5>
+            <p>Browser version of the Memory game.</p>
+            <a class="button" href="https://ibrahimadlani.fr/memory.js/">See the demo</a>
+            <a class="button button-primary" href="https://github.com/ibrahimadlani/Memory.js">Check the repo</a>
             <hr>
         </div>
       </div>
