@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/master.css">
   <link rel="icon" type="image/png" href="img/projects.png">
+  <script src="https://kit.fontawesome.com/8e5a240d2c.js" crossorigin="anonymous"></script>
+
 
 </head>
 <body>
@@ -20,6 +22,15 @@
     <div class="one-half column" style="margin-top: 15%">
     <a href="index.php"><img src="img/projects.png" alt="Cool tree by NeoCyania" srcset="" height=88></a>
         <h4>Ibrahim's Projects</h4>
+        <hr>
+        <ul class="nav-list">
+          <li class="nav-item"><a href="index.php"><i class="fas fa-home"></i><p>Home</p></a></li>
+          <li class="nav-item"><a href="projects.php"><i class="far fa-file-code"></i><p>Projects</p></a></li>
+          <li class="nav-item"><a href="resume.php"><i class="far fa-id-badge"></i><p>Resume</p></a></li>
+          <li class="nav-item"><a href="articles.php"><i class="far fa-newspaper"></i><p>Articles</p></a></li>
+          <li class="nav-item"><a target="_blank"  href="https://github.com/ibrahimadlani"><i class="fab fa-github-alt"></i><p>Github</p></a></li>
+        </ul>
+        <hr>
         <br>
         <div class="project">
             <h5><b>Project M3202c</b></h5>

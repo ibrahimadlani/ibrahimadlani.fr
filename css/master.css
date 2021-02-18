@@ -1,6 +1,37 @@
-h4 {
+*{
+    text-decoration: none;
+    
+}
+
+h4{
     margin: 0px;
 }
 ul {
     margin: 30px;
+}
+
+.nav-list {
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+
+    list-style: none;
+}
+
+.nav-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-item a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a p {
+    margin: 0px;
 }
