@@ -69,14 +69,12 @@
 
         <h3>Certifications</h3>
         <h4><b>Scientific Computing with Python, FreeCodeCamp</b></h4>
-        <small>January 2021</small>
+        <small>January 2021 - <a href="https://freecodecamp.org/certification/ibrahimadlani/scientific-computing-with-python-v7">See the certification</a></small>
         <h4><b>Responsive Web Design Certification, FreeCodeCamp</b></h4>
-        <small>January 2021</small>
+        <small>January 2021 - <a href="https://freecodecamp.org/certification/ibrahimadlani/responsive-web-design">See the certification</a></small>
         <h4><b>TOEIC (855/990), Educational Testing Service</b></h4>
         <small>February 2020</small>
         <hr>
-
-        
       </div>
     </div>
   </div>
